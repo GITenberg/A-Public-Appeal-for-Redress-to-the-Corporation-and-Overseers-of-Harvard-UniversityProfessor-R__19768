@@ -15,6 +15,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/8871
     wikipedia: http://en.wikipedia.org/wiki/Francis_Ellingwood_Abbot
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/19768#A-Public-Appeal-for-Redress-to-the-Corporation-and-Overseers-of-Harvard-UniversityProfessor-R_
 gutenberg_issued: '2006-11-12'
 gutenberg_type: Text
 identifiers:
